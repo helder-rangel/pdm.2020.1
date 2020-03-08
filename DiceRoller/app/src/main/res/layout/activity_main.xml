@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <Button
+        android:id="@+id/btSucesso"
+        android:text="ERRO"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </Button>
+
+    <Button
+        android:id="@+id/btErro"
+        android:text="ERRO"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </LinearLayout>
+
+</FrameLayout>

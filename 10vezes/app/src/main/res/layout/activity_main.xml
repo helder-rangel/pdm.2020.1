@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btHtml"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="HTML"
+        android:layout_weight="1"
+         />
+
+    <Button
+        android:id="@+id/btDiscar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="DISCAR"
+        android:layout_weight="1"
+        />
+
+    <Button
+        android:id="@+id/btLigar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="LIGAR"
+        android:layout_weight="1"
+        />
+
+    <Button
+        android:id="@+id/btCompartilhar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="COMPARTILHAR"
+        android:layout_weight="1"
+        />
+
+    <Button
+        android:id="@+id/btEmail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="E-mail"
+        android:layout_weight="1"
+        />
+
+    <Button
+        android:id="@+id/btPonto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="PONTO DO MAPA"
+        android:layout_weight="1"
+        />
+
+    <Button
+        android:id="@+id/btRota"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Rota do Mapa"
+        android:layout_weight="1"
+        />
+
+    <Button
+        android:id="@+id/btSms"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="SMS"
+        android:layout_weight="1"
+        />
+
+    <Button
+        android:id="@+id/btYouTube"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="YouTube"
+        android:layout_weight="1"
+        />
+
+    <Button
+        android:id="@+id/btFoto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Foto"
+        android:layout_weight="1"
+        />
+
+</LinearLayout>

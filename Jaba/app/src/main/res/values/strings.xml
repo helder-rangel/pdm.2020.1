@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jaba</string>
+    <string name="edit_message">Escreva a mensagem</string>
+    <string name="button_send">Send</string>
+</resources>
